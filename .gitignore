@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Built frontend code
+dist/
+
+# Electron-builder release output
+release/
+
+# Xray binary local folder (downloaded dynamically at runtime)
+bin/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Project zip bundles
+Equilibrium-X-Source-And-Release.zip
